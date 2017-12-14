@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Babel",
+		"Blade Snippets",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"ColorPick",
+		"ColorPicker",
+		"Console Wrap",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Hammer Color Scheme",
+		"Handlebars",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JSX",
+		"Laravel Blade Highlighter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PHP-Twig",
+		"Phpcs",
+		"PlainTasks",
+		"ProjectManager",
+		"Sass",
+		"Schemr",
+		"SCSS",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Brogrammer",
+		"Vintageous",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"php_cs_fixer_on_save": true,
+	"phpcs_executable_path": "/home/me/.config/composer/vendor/bin/phpcs",
+	"php_cs_fixer_executable_path": "/home/me/.config/composer/vendor/bin/php-cs-fixer"
+}

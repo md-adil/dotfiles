@@ -1,0 +1,28 @@
+{
+	"caret_extra_bottom": 8,
+	"caret_extra_top": 8,
+	"caret_extra_width": 1,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Fira Code",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"AceJump",
+		"Alignment",
+		"All Autocomplete",
+		"CTags",
+		"DocBlockr",
+		"SCSS Snippets",
+		"Table Editor",
+		"Vintage",
+		"Vintageous"
+	],
+	"line_padding_bottom": 8,
+	"line_padding_top": 8,
+	"material_theme_arrow_folders": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_disable_tree_indicator": true,
+	"theme": "Material-Theme.sublime-theme"
+}

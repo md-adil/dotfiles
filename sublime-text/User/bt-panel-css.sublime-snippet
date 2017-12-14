@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+.panel-default > .panel-heading {
+		border-color: transparent;
+		background-color:#eeeeee;
+	}
+	.panel.panel-default {
+		border: none;
+		border-radius: 2px;
+		-webkit-box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
+	}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bt-panel-css</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

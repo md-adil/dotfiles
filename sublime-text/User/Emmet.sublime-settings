@@ -1,0 +1,10 @@
+{
+	"snippets": {
+		"html": {
+			"abbreviations": {
+				"b3panel": "div.panel.panel-default>div.panel-heading>h3.panel-title{Adil}^div.panel-body+.panel-footer>button.btn.btn-default",
+				"b3modal": ".modal>div.modal-content>div.modal-body"
+			}
+		}
+	}
+}

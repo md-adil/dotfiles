@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+		<div class="panel panel-default">
+		  <div class="panel-heading">
+		    <h3 class="panel-title">Panel title</h3>
+		  </div>
+		  <div class="panel-body">
+		    Panel content
+		  </div>
+		</div>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bt-panel</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

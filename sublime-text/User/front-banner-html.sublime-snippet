@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="front-banner-box">
+	<div class="front-banner-img"></div>
+	<div class="front-banner-overlay">
+		<h1 class="text-center">Hello World!</h1>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>front-banner-html</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

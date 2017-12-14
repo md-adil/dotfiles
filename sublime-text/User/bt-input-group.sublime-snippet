@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<div class="input-group">
+  <input type="text" class="form-control" placeholder="Username" aria-describedby="basic-addon1">
+  <span class="input-group-addon" id="basic-addon1">@</span>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bt-input-group</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

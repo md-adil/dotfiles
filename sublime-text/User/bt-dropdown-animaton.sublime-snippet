@@ -1,0 +1,31 @@
+<snippet>
+	<content><![CDATA[
+.open > .dropdown-menu.changed {
+  -webkit-transform: scale(1, 1);
+  -moz-transform: scale(1, 1);
+  transform: scale(1, 1);  
+  
+}
+
+.dropdown-menu.changed {
+  -webkit-transform-origin: top;
+  -moz-transform-origin: top;
+  transform-origin: top;
+  -webkit-animation-fill-mode: forwards;  
+  -moz-animation-fill-mode: forwards;  
+  animation-fill-mode: forwards; 
+  -webkit-transform: scale(1, 0);
+  -moz-transform: scale(1, 0);
+  display: block;
+  
+  transition: all 0.2s ease-out;
+  -webkit-transition: all 0.2s ease-out;
+  -webkit-moz: all 0.2s ease-out;
+}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bt-dropdown-animation</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

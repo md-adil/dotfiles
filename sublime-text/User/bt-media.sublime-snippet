@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+		<ul class="media-list">
+		  <li class="media">
+		    <div class="media-left">
+		      <a href="#">
+		        <img class="media-object" src="img/bg-2.jpg" width="200" alt="...">
+		      </a>
+		    </div>
+		    <div class="media-body">
+		      <h4 class="media-heading">Media heading</h4>
+		      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, facere?</p>
+		    </div>
+		  </li>
+		</ul>
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bt-media</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope>
+</snippet>

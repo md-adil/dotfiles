@@ -1,0 +1,7 @@
+// Settings in here override those in "/User/consolewrap.sublime-settings",
+
+{
+	"fileTypeMap" : {                   // Maps file type to wrapper. For example "text.html.vue": "js" means use js wrapper in vue js files
+        "source.js.jsx"     : "js"
+    }
+}
