@@ -29,7 +29,7 @@ endif
 " Theme
 syntax enable
 colorscheme dracula
-
+set number
 set tabstop=4 shiftwidth=4 expandtab
 
 let g:NERDTreeShowHidden = 1
